@@ -1,0 +1,25 @@
+{
+    "rejwancse10@gmail.com": {
+        "userName": "Rejwan",
+        "email": "rejwancse10@gmail.com",
+        "password": "25f9e794323b453885f5181f1b624d0b",
+        "role": "admin"
+    },
+    "abdullah@gmail.com": {
+        "userName": "Abdullah",
+        "email": "abdullah@gmail.com",
+        "password": "25f9e794323b453885f5181f1b624d0b"
+    },
+    "akash@gmail.com": {
+        "userName": "Akash",
+        "email": "akash@gmail.com",
+        "password": "25f9e794323b453885f5181f1b624d0b",
+        "role": "user"
+    },
+    "robin@gmail.com": {
+        "userName": "Robin",
+        "email": "robin@gmail.com",
+        "password": "25f9e794323b453885f5181f1b624d0b",
+        "role": "manager"
+    }
+}

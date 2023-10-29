@@ -1,0 +1,29 @@
+:root{
+    --body-color: rgb(233, 230, 230);
+    --form-color: white;
+    --nav-color: #025C53;
+    --btn-color: #10a899;
+    --btn-hover-color: rgb(255, 81, 0);
+}
+.body-color{
+    background-color: var(--body-color);
+}
+.nav-bg-color{
+    background-color: var(--nav-color);
+}
+.form-color{
+    background-color: var(--form-color);
+}
+.btn-color{
+    color: #fff;
+    background-color: var(--btn-color);
+    border-color: var(--btn-color);
+    font-weight: bold;
+}
+.btn-color:hover{
+    background-color: var(--nav-color);
+    color: var(--btn-hover-color);
+}
+.a-login{
+    text-decoration: none;
+}
